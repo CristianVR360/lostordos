@@ -1,12 +1,12 @@
 
-@import url(base/estandarizacion.css);
-@import url(layout/header.css);
-@import url(layout/proyectos.css);
-@import url(layout/ubicacion.css);
-@import url(layout/caracteristicas.css);
-@import url(layout/footer.css);
-@import url(layout/masterplan.css);
-@import url(layout/financiamiento.css);
+@import url(./base/estandarizacion.css);
+@import url(./layout/header.css);
+@import url(./layout/proyectos.css);
+@import url(./layout/ubicacion.css);
+@import url(./layout/caracteristicas.css);
+@import url(./layout/footer.css);
+@import url(./layout/masterplan.css);
+@import url(./layout/financiamiento.css);
 
 
 /*---------------------------------
